@@ -1,0 +1,20 @@
+name: four_fours
+description: Try to make any integer using only 4 4s. Created at CodeDay Fall 2018.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^0.4.2
+  math_expressions: ^1.0.0
+  cupertino_icons: ^0.1.2
+
+  # Maybe use this for the calculation part? also PetitParser looks like it could work with more effort
+  js: ^0.6.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
